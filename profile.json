@@ -1,0 +1,23 @@
+{
+  "birthday": "2005-01-14",
+  "title": "birendra.nath@nandi",
+  "info": [
+    ["OS", "Windows 11, Linux"],
+    ["Uptime", "__AGE__"],
+    ["Host", "Mallabhum Institute of Technology"],
+    ["Kernel", "Student (final year)"],
+    ["IDE", "__IDE__"],
+    null,
+    ["Languages.Programming", "Python, Java, JavaScript"],
+    ["Languages.Computer", "HTML, CSS, JSON"],
+    ["Languages.Real", "English, Hindi"],
+    null,
+    ["Hobbies.Software", "Open source, Game dev"],
+    ["Hobbies.Hardware", "Mechanical keyboards"]
+  ],
+  "contact": [
+    ["Email.Personal", "bnnandi.tech@gmail.com"],
+    ["LinkedIn", "birendra-nath-nandi"],
+    ["Discord", "birendra.nath.nandi"]
+  ]
+}
